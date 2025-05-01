@@ -1,1 +1,1 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+print(setmetatable({}, {_add = print}) + 1)
